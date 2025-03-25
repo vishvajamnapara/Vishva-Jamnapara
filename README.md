@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishvajamnapara
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Advanced Php and Mysql
   
 
 <!---
